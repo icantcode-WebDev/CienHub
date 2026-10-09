@@ -1,2 +1,3 @@
 # CienHub
-test dump
+auth: cien
+
